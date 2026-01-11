@@ -2991,5 +2991,17 @@
     "manufacturerCode": 4107,
     "sha512": "916714904a78a01074593aa8438ce7cfbe59a1166f3b0c87d72dc8dfcae5f7e0b57370effd6e5bc897f1a7d8d7b45a48fde68f4c22b7c8404077347f62e3a9d8",
     "otaHeaderString": ""
+  },
+  {
+    "fileName": "100B-012A-01000700-Light-SiMG301.zigbee",
+    "fileVersion": 16779008,
+    "fileSize": 1062460,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-12a/16779008/229a7fd1-9d41-459a-bba8-807cae8ae333/100B-012A-01000700-Light-SiMG301.zigbee",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/Hue/100B-012A-01000700-Light-SiMG301.zigbee",
+    "imageType": 298,
+    "manufacturerCode": 4107,
+    "sha512": "8a201045a669df5e17daed5ee80bdfb318e0465fcdeaebf69cfe1eb5cf563c0137526be894921512f8333cbb7dfacf36002d25b2dfd8e7789bb1d376f300bd97",
+    "otaHeaderString": "",
+    "releaseNotes": "Version: 7.0"
   }
 ]
