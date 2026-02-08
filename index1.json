@@ -3003,5 +3003,17 @@
     "sha512": "ff26fc033694a078c9a8f23e1e2762d47c00ed39f29c6833eb784b252b872587164628139cbef32a356a62985106706e39d415b93066d9c5131ebf83783e1d86",
     "otaHeaderString": "",
     "releaseNotes": "Version: 8.8"
+  },
+  {
+    "fileName": "DOT_IT_ZBD_G01-0x1189-0x00FC-0x01328000-MF_DIS-DOWM_DIS-20250815123429-3224010153640-lzma-encrypted.ota",
+    "fileVersion": 20086784,
+    "fileSize": 373050,
+    "originalUrl": "https://api.update.ledvance.com/v1/zigbee/firmwares/download?company=4489&product=252&version=1.50.128.0",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images1/LEDVANCE/DOT_IT_ZBD_G01-0x1189-0x00FC-0x01328000-MF_DIS-DOWM_DIS-20250815123429-3224010153640-lzma-encrypted.ota",
+    "imageType": 252,
+    "manufacturerCode": 4489,
+    "sha512": "970d3f2f3cf4ef919d6f44dc6feb354eb603038d00b68542f07f72f3d7a4685b539708e3a0443f046974d4d841353da2a2734f4fedf157057d19d68b97042a93",
+    "otaHeaderString": "DOT_IT_ZBD_G01",
+    "releaseNotes": "1. Standard brightness of Dot-It @70%.\r\n2. Improve Dimming Curve."
   }
 ]
